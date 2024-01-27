@@ -34,6 +34,6 @@ Objetivo Profissional:
  
 <div> 
   <a href="https://instagram.com/bruno_bartth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:byfrost.games@gmail.com" target="_blank"><img src="https://1drv.ms/i/s!AhGZaDrAy8nZghDNIsMOe9mUZ78n?e=AsKR84" target="_blank"></a>
+  <a href = "mailto:byfrost.games@gmail.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1199589959082971236/1200941968549744660/Design_sem_nome_20240127_201036_00002.png?ex=65c8035d&is=65b58e5d&hm=5b57162751757168819f72308f95b3890ae048d9252231757b8e462eb4ef8826&" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-fortini-292a302a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
