@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno 😁
+## Bem-vindo(a) ao perfil do Bruno 
 
  <div>
    <a href="https://github.com/Bruno2657">
