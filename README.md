@@ -12,10 +12,10 @@ Nome: Bruno
 
 Idade: 15 anos
 
-Profissão: jovem aprendiz,  Farmácias São João
+Profissão: 
 
 Experiência Profissional:
-- Trabalho nas Farmácias São João, iniciado aos 14 anos.
+- Trabalhei nas Farmácias São João, iniciado aos 14 anos.
 - Aprendi importantes lições sobre trabalho em equipe e responsabilidade durante essa experiência.
 
 Objetivo Profissional:
